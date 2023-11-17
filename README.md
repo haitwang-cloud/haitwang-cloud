@@ -1,8 +1,7 @@
-# github-profile-summary-cards-example
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+- 🔭  I have nearly 4.5 years of experience in building and maintaining K8S and Istio mesh in eBay & SAP .
+- 🌱 I’m currently learning and sharing in my [blog](https://github.com/haitwang-cloud/blog)
 
 ```To create your profile README you need to name the repo as your username```
 
