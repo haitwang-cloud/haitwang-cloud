@@ -1,6 +1,6 @@
 
 
-- 🔭  I have nearly 4.5 years of experience in building and maintaining K8S and Istio mesh in eBay & SAP .
+- 🔭  I have 5 years of experience in building and maintaining K8S and Istio mesh in eBay & SAP .
 - 🌱 I’m currently learning and sharing in my [blog](https://github.com/haitwang-cloud/blog)
 
 
