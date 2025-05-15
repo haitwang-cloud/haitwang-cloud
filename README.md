@@ -1,4 +1,4 @@
-With 5 years of experience under my belt 🔧, I'm passionate 💪 about building and maintaining Kubernetes (K8S) ⚙️ and Istio mesh. From my adventure days at eBay & SAP 👨‍💻, I've sharpened my skills in these areas, and I'm currently diving deep 🌊 into the exciting world of vGPU management within K8S clusters 🌐. I'm also exploring how to efficiently host LLM models in GPUs using TGI or vLLM. 🚀
+With 6 years of experience under my belt 🔧, I'm passionate 💪 about building and maintaining Kubernetes (K8S) ⚙️ and Istio mesh. From my adventure days at eBay & SAP 👨‍💻, I've sharpened my skills in these areas, and I'm currently diving deep 🌊 into the exciting world of vGPU management within K8S clusters 🌐. I'm also exploring how to efficiently host LLM models in GPUs using TGI or vLLM. 🚀
 
 Personally, I love sharing my knowledge and experiences through my [📖blog](https://tim-wang-tecg-blog.pages.dev/). Whether you're a seasoned pro 🧙‍♂️ or just starting out 🌱, I'm always happy 😊 to connect and learn from others!
 
