@@ -9,10 +9,6 @@ Currently learning Spanish on Duolingo. ¡Hola! 🇪🇸
 
 [![GitHub Roast score card](https://ghfind.com/api/card/mini/haitwang-cloud)](https://ghfind.com/u/haitwang-cloud?ref=badge)
 
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/haitwang-cloud?lang=zh)](https://ghfind.com/u/haitwang-cloud?ref=badge)
 
 [![GitHub Roast score card](https://ghfind.com/api/card/mini/haitwang-cloud?variant=radar&theme=dark)](https://ghfind.com/u/haitwang-cloud?ref=badge)
 
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/haitwang-cloud?variant=radar&theme=dark&lang=zh)](https://ghfind.com/u/haitwang-cloud?ref=badge)
-
-[![GitHub Roast](https://ghfind.com/api/card/haitwang-cloud?theme=dark)](https://ghfind.com/u/haitwang-cloud?ref=badge)
