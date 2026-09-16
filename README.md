@@ -7,7 +7,7 @@ I also share what I learn through my [📖 blog](https://tim-wang-tecg-blog.page
 
 Currently learning Spanish on Duolingo. ¡Hola! 🇪🇸
 
-
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/haitwang-cloud)](https://ghfind.com/u/haitwang-cloud?ref=badge)
 
 [![](https://raw.githubusercontent.com/haitwang-cloud/haitwang-cloud/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/haitwang-cloud/haitwang-cloud/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/haitwang-cloud/haitwang-cloud/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
