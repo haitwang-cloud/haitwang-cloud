@@ -8,7 +8,8 @@ I also share what I learn through my [📖 blog](https://tim-wang-tecg-blog.page
 Currently learning Spanish on Duolingo. ¡Hola! 🇪🇸
 
 [![GitHub Roast score card](https://ghfind.com/api/card/mini/haitwang-cloud)](https://ghfind.com/u/haitwang-cloud?ref=badge)
-
-
 [![GitHub Roast score card](https://ghfind.com/api/card/mini/haitwang-cloud?variant=radar&theme=dark)](https://ghfind.com/u/haitwang-cloud?ref=badge)
-
+[![GitHub Roast](https://ghfind.com/api/card/haitwang-cloud?theme=dark&variant=contrib&qr=1)](https://ghfind.com/u/haitwang-cloud?ref=badge)
+[![GitHub Roast](https://ghfind.com/api/card/haitwang-cloud?theme=dark&variant=pr&qr=1)](https://ghfind.com/u/haitwang-cloud?ref=badge)
+[![GitHub Roast](https://ghfind.com/api/card/haitwang-cloud?theme=dark&variant=path&qr=1)](https://ghfind.com/u/haitwang-cloud?ref=badge)
+[![GitHub Roast](https://ghfind.com/api/card/haitwang-cloud?theme=dark&variant=work&qr=1)](https://ghfind.com/u/haitwang-cloud?ref=badge)
